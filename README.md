@@ -56,7 +56,7 @@ My name is Rudraksh Joshi & I am pursuing my Bachelor's in Electrical Engineerin
 
 ##  Stats
 
-[![Rudraksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudrakshAtGithub)](https://github.com/RudrakshAtGithub/github-readme-stats)
+[![Rudraksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudrakshAtGithubb)](https://github.com/RudrakshAtGithubb/github-readme-stats)
 
 ##  Skills🤖
 
@@ -88,9 +88,11 @@ Muon, [8/19/2023 10:13 AM]
 
 ## Contributors
 
-<p align="center"
+<p align="center">
   <a href="https://github.com/RudrakshAtGithub/Rudraksh-Joshi">
   <img src="https://contrib.rocks/image?repo=RudrakshAtGithub/Rudraksh-Joshi" />
+  <a href="https://github.com/RudrakshAtGithubb/Rudraksh-Joshi">
+  <img src="https://contrib.rocks/image?repo=RudrakshAtGithubb/Rudraksh-Joshi" />
   </a>
 </p>
 <h1 align="center">
