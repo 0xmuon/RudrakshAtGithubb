@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA,to develop problem solving skills.
 - 💞️ I’m looking to collaborate on exciting security talks/podcasts.
 - 📫 How to reach me :
-        Twitter handle: https://twitter.com/RudakshJoshi14
+        Twitter handle: https://twitter.com/muonicz
 
 <!---
 RudrakshAtGithubb/RudrakshAtGithubb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
