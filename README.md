@@ -50,7 +50,6 @@ You can click the Preview link to take a look at your changes.
 My name is Rudraksh Joshi & I am pursuing my Bachelor's in Electrical Engineering From Sardar Vallabhbhai National Institute of Technology,Surat. I am passionate about WebDev & Web3.0. Open to collaborate Over Hackathons/.
 <br>
 <img src="https://github.com/RudrakshAtGithub/Store/blob/main/The-IT-Crowd-on-fire.gif">
-
 ##  Stats
 
 [![Rudraksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=muonics)](https://github.com/muonics/github-readme-stats)
