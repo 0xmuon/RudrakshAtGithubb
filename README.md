@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RudrakshAtGithubb
+- 👋 Hi, I’m @muonics
 - 👀 I’m interested in Web3.0 and nothing else fr!
 - 🌱 I’m currently learning DSA,to develop problem solving skills.
 - 💞️ I’m looking to collaborate on exciting security talks/podcasts.
