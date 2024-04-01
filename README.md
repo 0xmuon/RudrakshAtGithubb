@@ -71,9 +71,9 @@ Note: I AM NOT PROFICIENT IN ANY,WILL UPDATE,WHEN I DO SOMETHING GOOD! till then
 <p>
   If you want to connect with me,please leave a DM in any of the following Socials,would love to collaborate.
 </p>
-<a href="https://www.linkedin.com/in/rudraksh-joshi-15202524b/" type="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/rudraksh-j//" type="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://RudrakshAtHashnode.hashnode.dev" type="_blank">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
-<a href="https://twitter.com/RudrakshJoshi14" type="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://twitter.com/0xmuon" type="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.youtube.com/@RudrakshJoshi" type="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>  
 <img src="https://komarev.com/ghpvc/?username=RudrakshAtGithubb&style=flat-square&color=blue" alt=""/>
 <div align="center">
@@ -85,8 +85,8 @@ Note: I AM NOT PROFICIENT IN ANY,WILL UPDATE,WHEN I DO SOMETHING GOOD! till then
 ## Contributors
 
 <p align="center">
-  <a href="https://github.com/muonics/Rudraksh-Joshi">
-  <img src="https://contrib.rocks/image?repo=muonics/Rudraksh-Joshi" />
+  <a href="https://github.com/0xmuon/Rudraksh-Joshi">
+  <img src="https://contrib.rocks/image?repo=0xmuon/Rudraksh-Joshi" />
   </a>
 </p>
 <h1 align="center">
