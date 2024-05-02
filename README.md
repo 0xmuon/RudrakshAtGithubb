@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning DSA,to develop problem solving skills.
 - 💞️ I’m looking to collaborate on exciting security talks/podcasts.
 - 📫 How to reach me :
-        Twitter handle: https://twitter.com/muonicz
+        Twitter handle: https://x.com/0xmuon
 
 <!---
-RudrakshAtGithubb/RudrakshAtGithubb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+0xmuon/0xmuon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 My name is Rudraksh Joshi & I am pursuing my Bachelor's in Electrical Engineering From Sardar Vallabhbhai National Institute of Technology,Surat. I am passionate about WebDev & Web3.0. Open to collaborate Over Hackathons/.
 <br>
-<img src="https://github.com/RudrakshAtGithub/Store/blob/main/The-IT-Crowd-on-fire.gif">
+<img src="https://github.com/0xmuon/Store/blob/main/The-IT-Crowd-on-fire.gif">
 ##  Stats
 
 [![Rudraksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=muonics)](https://github.com/muonics/github-readme-stats)
@@ -73,9 +73,9 @@ Note: I AM NOT PROFICIENT IN ANY,WILL UPDATE,WHEN I DO SOMETHING GOOD! till then
 </p>
 <a href="https://www.linkedin.com/in/rudraksh-j//" type="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://RudrakshAtHashnode.hashnode.dev" type="_blank">![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)</a>
-<a href="https://twitter.com/0xmuon" type="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://www.youtube.com/@RudrakshJoshi" type="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>  
-<img src="https://komarev.com/ghpvc/?username=RudrakshAtGithubb&style=flat-square&color=blue" alt=""/>
+<a href="https://x.com/0xmuon" type="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.youtube.com/@muonics" type="_blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>  
+<img src="https://komarev.com/ghpvc/?username=0xmuon&style=flat-square&color=blue" alt=""/>
 <div align="center">
 <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 <img src="https://forthebadge.com/images/badges/uses-brains.svg" />
