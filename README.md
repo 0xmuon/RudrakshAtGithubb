@@ -5,12 +5,6 @@
 - 📫 How to reach me :
         Twitter handle: https://x.com/0xmuon
 
-<!---
-0xmuon/0xmuon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<div id="top"></div>
 
 <br>
 <h2 align="center">
